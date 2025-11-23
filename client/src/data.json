@@ -1,0 +1,3783 @@
+{
+  "pays": [
+    {
+      "nom": "Afrique du Sud",
+      "score": 2
+    },
+    {
+      "nom": "Algérie",
+      "score": 4
+    },
+    {
+      "nom": "Angola",
+      "score": 4
+    },
+    {
+      "nom": "Bénin",
+      "score": 3
+    },
+    {
+      "nom": "Botswana",
+      "score": 2
+    },
+    {
+      "nom": "Burkina Faso",
+      "score": 2
+    },
+    {
+      "nom": "Burundi",
+      "score": 3
+    },
+    {
+      "nom": "Cameroun",
+      "score": 4
+    },
+    {
+      "nom": "Cap-Vert",
+      "score": 1
+    },
+    {
+      "nom": "République centrafricaine",
+      "score": 4
+    },
+    {
+      "nom": "Comores",
+      "score": 1
+    },
+    {
+      "nom": "République du Congo",
+      "score": 2
+    },
+    {
+      "nom": "République démocratique du Congo",
+      "score": 4
+    },
+    {
+      "nom": "Côte d'Ivoire",
+      "score": 4
+    },
+    {
+      "nom": "Djibouti",
+      "score": 2
+    },
+    {
+      "nom": "Égypte",
+      "score": 3
+    },
+    {
+      "nom": "Érythrée",
+      "score": 2
+    },
+    {
+      "nom": "Éthiopie",
+      "score": 2
+    },
+    {
+      "nom": "Eswatini",
+      "score": 3
+    },
+    {
+      "nom": "Gabon",
+      "score": 2
+    },
+    {
+      "nom": "Gambie",
+      "score": 2
+    },
+    {
+      "nom": "Ghana",
+      "score": 2
+    },
+    {
+      "nom": "Guinée",
+      "score": 2
+    },
+    {
+      "nom": "Guinée-Bissau",
+      "score": 4
+    },
+    {
+      "nom": "Guinée équatoriale",
+      "score": 2
+    },
+    {
+      "nom": "Kenya",
+      "score": 4
+    },
+    {
+      "nom": "Lesotho",
+      "score": 2
+    },
+    {
+      "nom": "Liberia",
+      "score": 2
+    },
+    {
+      "nom": "Libye",
+      "score": 2
+    },
+    {
+      "nom": "Madagascar",
+      "score": 2
+    },
+    {
+      "nom": "Malawi",
+      "score": 2
+    },
+    {
+      "nom": "Mali",
+      "score": 4
+    },
+    {
+      "nom": "Maroc",
+      "score": 2
+    },
+    {
+      "nom": "Maurice",
+      "score": 2
+    },
+    {
+      "nom": "Mauritanie",
+      "score": 2
+    },
+    {
+      "nom": "Mozambique",
+      "score": 2
+    },
+    {
+      "nom": "Namibie",
+      "score": 4
+    },
+    {
+      "nom": "Niger",
+      "score": 2
+    },
+    {
+      "nom": "Nigeria",
+      "score": 4
+    },
+    {
+      "nom": "Ouganda",
+      "score": 3
+    },
+    {
+      "nom": "Rwanda",
+      "score": 2
+    },
+    {
+      "nom": "Sao Tomé-et-Principe",
+      "score": 1
+    },
+    {
+      "nom": "Sénégal",
+      "score": 2
+    },
+    {
+      "nom": "Seychelles",
+      "score": 3
+    },
+    {
+      "nom": "Sierra Leone",
+      "score": 2
+    },
+    {
+      "nom": "Somalie",
+      "score": 4
+    },
+    {
+      "nom": "Soudan",
+      "score": 4
+    },
+    {
+      "nom": "Soudan du Sud",
+      "score": 4
+    },
+    {
+      "nom": "Tanzanie",
+      "score": 4
+    },
+    {
+      "nom": "Tchad",
+      "score": 3
+    },
+    {
+      "nom": "Togo",
+      "score": 3
+    },
+    {
+      "nom": "Tunisie",
+      "score": 2
+    },
+    {
+      "nom": "Zambie",
+      "score": 2
+    },
+    {
+      "nom": "Zimbabwe",
+      "score": 2
+    },
+    {
+      "nom": "Antigua-et-Barbuda",
+      "score": 3
+    },
+    {
+      "nom": "Argentine",
+      "score": 2
+    },
+    {
+      "nom": "Bahamas",
+      "score": 2
+    },
+    {
+      "nom": "Barbade",
+      "score": 2
+    },
+    {
+      "nom": "Belize",
+      "score": 3
+    },
+    {
+      "nom": "Bolivie",
+      "score": 2
+    },
+    {
+      "nom": "Brésil",
+      "score": 2
+    },
+    {
+      "nom": "Canada",
+      "score": 2
+    },
+    {
+      "nom": "Chili",
+      "score": 2
+    },
+    {
+      "nom": "Colombie",
+      "score": 2
+    },
+    {
+      "nom": "Costa Rica",
+      "score": 2
+    },
+    {
+      "nom": "Cuba",
+      "score": 4
+    },
+    {
+      "nom": "République dominicaine",
+      "score": 2
+    },
+    {
+      "nom": "Dominique",
+      "score": 2
+    },
+    {
+      "nom": "Équateur",
+      "score": 2
+    },
+    {
+      "nom": "États-Unis",
+      "score": 2
+    },
+    {
+      "nom": "Grenade",
+      "score": 2
+    },
+    {
+      "nom": "Guatemala",
+      "score": 2
+    },
+    {
+      "nom": "Guyana",
+      "score": 2
+    },
+    {
+      "nom": "Haïti",
+      "score": 4
+    },
+    {
+      "nom": "Honduras",
+      "score": 2
+    },
+    {
+      "nom": "Jamaïque",
+      "score": 2
+    },
+    {
+      "nom": "Mexique",
+      "score": 2
+    },
+    {
+      "nom": "Nicaragua",
+      "score": 2
+    },
+    {
+      "nom": "Panama",
+      "score": 4
+    },
+    {
+      "nom": "Paraguay",
+      "score": 2
+    },
+    {
+      "nom": "Pérou",
+      "score": 2
+    },
+    {
+      "nom": "Saint-Christophe-et-Niévès",
+      "score": 2
+    },
+    {
+      "nom": "Sainte-Lucie",
+      "score": 2
+    },
+    {
+      "nom": "Saint-Vincent-et-les-Grenadines",
+      "score": 2
+    },
+    {
+      "nom": "Salvador",
+      "score": 2
+    },
+    {
+      "nom": "Suriname",
+      "score": 1
+    },
+    {
+      "nom": "Trinité-et-Tobago",
+      "score": 4
+    },
+    {
+      "nom": "Uruguay",
+      "score": 2
+    },
+    {
+      "nom": "Venezuela",
+      "score": 4
+    },
+    {
+      "nom": "Aucun État souverain reconnu internationalement.",
+      "score": 0
+    },
+    {
+      "nom": "Afghanistan",
+      "score": 4
+    },
+    {
+      "nom": "Arabie saoudite",
+      "score": 2
+    },
+    {
+      "nom": "Arménie",
+      "score": 2
+    },
+    {
+      "nom": "Azerbaïdjan",
+      "score": 2
+    },
+    {
+      "nom": "Bahreïn",
+      "score": 2
+    },
+    {
+      "nom": "Bangladesh",
+      "score": 3
+    },
+    {
+      "nom": "Bhoutan",
+      "score": 2
+    },
+    {
+      "nom": "Myanmar (Birmanie) ",
+      "score": 4
+    },
+    {
+      "nom": "Brunei",
+      "score": 3
+    },
+    {
+      "nom": "Cambodge",
+      "score": 2
+    },
+    {
+      "nom": "Chine",
+      "score": 2
+    },
+    {
+      "nom": "Chypre",
+      "score": 2
+    },
+    {
+      "nom": "Corée du Nord",
+      "score": 4
+    },
+    {
+      "nom": "Corée du Sud",
+      "score": 2
+    },
+    {
+      "nom": "Émirats arabes unis",
+      "score": 2
+    },
+    {
+      "nom": "Géorgie",
+      "score": 2
+    },
+    {
+      "nom": "Inde",
+      "score": 2
+    },
+    {
+      "nom": "Indonésie",
+      "score": 2
+    },
+    {
+      "nom": "Irak",
+      "score": 4
+    },
+    {
+      "nom": "Iran",
+      "score": 4
+    },
+    {
+      "nom": "Israël",
+      "score": 2
+    },
+    {
+      "nom": "Japon",
+      "score": 2
+    },
+    {
+      "nom": "Jordanie",
+      "score": 2
+    },
+    {
+      "nom": "Kazakhstan",
+      "score": 2
+    },
+    {
+      "nom": "Kirghizistan",
+      "score": 1
+    },
+    {
+      "nom": "Koweït",
+      "score": 2
+    },
+    {
+      "nom": "Laos",
+      "score": 4
+    },
+    {
+      "nom": "Liban",
+      "score": 4
+    },
+    {
+      "nom": "Malaisie",
+      "score": 2
+    },
+    {
+      "nom": "Maldives",
+      "score": 2
+    },
+    {
+      "nom": "Mongolie",
+      "score": 2
+    },
+    {
+      "nom": "Népal",
+      "score": 4
+    },
+    {
+      "nom": "Oman",
+      "score": 3
+    },
+    {
+      "nom": "Ouzbékistan",
+      "score": 2
+    },
+    {
+      "nom": "Pakistan",
+      "score": 4
+    },
+    {
+      "nom": "Palestine",
+      "score": 3
+    },
+    {
+      "nom": "Philippines",
+      "score": 3
+    },
+    {
+      "nom": "Qatar",
+      "score": 2
+    },
+    {
+      "nom": "Singapour",
+      "score": 2
+    },
+    {
+      "nom": "Sri Lanka",
+      "score": 2
+    },
+    {
+      "nom": "Syrie",
+      "score": 4
+    },
+    {
+      "nom": "Taïwan",
+      "score": 2
+    },
+    {
+      "nom": "Tadjikistan",
+      "score": 2
+    },
+    {
+      "nom": "Thaïlande",
+      "score": 2
+    },
+    {
+      "nom": "Timor oriental",
+      "score": 2
+    },
+    {
+      "nom": "Turkménistan",
+      "score": 2
+    },
+    {
+      "nom": "Turquie",
+      "score": 3
+    },
+    {
+      "nom": "Vietnam",
+      "score": 4
+    },
+    {
+      "nom": "Yémen",
+      "score": 4
+    },
+    {
+      "nom": "Albanie",
+      "score": 2
+    },
+    {
+      "nom": "Allemagne",
+      "score": 3
+    },
+    {
+      "nom": "Andorre",
+      "score": 2
+    },
+    {
+      "nom": "Autriche",
+      "score": 2
+    },
+    {
+      "nom": "Belgique",
+      "score": 2
+    },
+    {
+      "nom": "Biélorussie",
+      "score": 3
+    },
+    {
+      "nom": "Bosnie-Herzégovine",
+      "score": 2
+    },
+    {
+      "nom": "Bulgarie",
+      "score": 4
+    },
+    {
+      "nom": "Croatie",
+      "score": 4
+    },
+    {
+      "nom": "Danemark",
+      "score": 2
+    },
+    {
+      "nom": "Espagne",
+      "score": 2
+    },
+    {
+      "nom": "Estonie",
+      "score": 2
+    },
+    {
+      "nom": "Finlande",
+      "score": 2
+    },
+    {
+      "nom": "France",
+      "score": 3
+    },
+    {
+      "nom": "Grèce",
+      "score": 3
+    },
+    {
+      "nom": "Hongrie",
+      "score": 2
+    },
+    {
+      "nom": "Irlande",
+      "score": 2
+    },
+    {
+      "nom": "Islande",
+      "score": 2
+    },
+    {
+      "nom": "Italie",
+      "score": 2
+    },
+    {
+      "nom": "Lettonie",
+      "score": 2
+    },
+    {
+      "nom": "Liechtenstein",
+      "score": 2
+    },
+    {
+      "nom": "Lituanie",
+      "score": 2
+    },
+    {
+      "nom": "Luxembourg",
+      "score": 1
+    },
+    {
+      "nom": "Macédoine du Nord",
+      "score": 2
+    },
+    {
+      "nom": "Malte",
+      "score": 1
+    },
+    {
+      "nom": "Moldavie",
+      "score": 2
+    },
+    {
+      "nom": "Monaco",
+      "score": 4
+    },
+    {
+      "nom": "Monténégro",
+      "score": 2
+    },
+    {
+      "nom": "Norvège",
+      "score": 2
+    },
+    {
+      "nom": "Pays-Bas",
+      "score": 2
+    },
+    {
+      "nom": "Pologne",
+      "score": 2
+    },
+    {
+      "nom": "Portugal",
+      "score": 2
+    },
+    {
+      "nom": "République tchèque",
+      "score": 1
+    },
+    {
+      "nom": "Roumanie",
+      "score": 2
+    },
+    {
+      "nom": "Royaume-Uni",
+      "score": 3
+    },
+    {
+      "nom": "Russie",
+      "score": 3
+    },
+    {
+      "nom": "Saint-Marin",
+      "score": 2
+    },
+    {
+      "nom": "Serbie",
+      "score": 2
+    },
+    {
+      "nom": "Slovaquie",
+      "score": 2
+    },
+    {
+      "nom": "Slovénie",
+      "score": 2
+    },
+    {
+      "nom": "Suède",
+      "score": 2
+    },
+    {
+      "nom": "Suisse",
+      "score": 2
+    },
+    {
+      "nom": "Ukraine",
+      "score": 3
+    },
+    {
+      "nom": "Vatican",
+      "score": 1
+    },
+    {
+      "nom": "Australie",
+      "score": 2
+    },
+    {
+      "nom": "Fidji",
+      "score": 4
+    },
+    {
+      "nom": "Kiribati",
+      "score": 1
+    },
+    {
+      "nom": "Îles Marshall",
+      "score": 2
+    },
+    {
+      "nom": "Micronésie",
+      "score": 1
+    },
+    {
+      "nom": "Nauru",
+      "score": 2
+    },
+    {
+      "nom": "Nouvelle-Zélande",
+      "score": 2
+    },
+    {
+      "nom": "Palaos",
+      "score": 4
+    },
+    {
+      "nom": "Papouasie-Nouvelle-Guinée",
+      "score": 2
+    },
+    {
+      "nom": "Samoa",
+      "score": 4
+    },
+    {
+      "nom": "Îles Salomon",
+      "score": 1
+    },
+    {
+      "nom": "Tonga",
+      "score": 1
+    },
+    {
+      "nom": "Tuvalu",
+      "score": 1
+    },
+    {
+      "nom": "Vanuatu",
+      "score": 4
+    }
+  ],
+  "villes": [
+    {
+      "nom": "Dakhla",
+      "score": 4
+    },
+    {
+      "nom": "Aousserd",
+      "score": 4
+    },
+    {
+      "nom": "Laâyoune",
+      "score": 4
+    },
+    {
+      "nom": "Es-Semara",
+      "score": 4
+    },
+    {
+      "nom": "Boujdour",
+      "score": 4
+    },
+    {
+      "nom": "Tarfaya",
+      "score": 4
+    },
+    {
+      "nom": "Guelmim",
+      "score": 4
+    },
+    {
+      "nom": "Tan Tan",
+      "score": 4
+    },
+    {
+      "nom": "Assa-Zag",
+      "score": 4
+    },
+    {
+      "nom": "El Guergarat",
+      "score": 4
+    },
+    {
+      "nom": "Sidi Ifni",
+      "score": 4
+    },
+    {
+      "nom": "Al Hoceïma",
+      "score": 4
+    },
+    {
+      "nom": "Taounate",
+      "score": 4
+    },
+    {
+      "nom": "Tétouan",
+      "score": 4
+    },
+    {
+      "nom": "Tanger",
+      "score": 4
+    },
+    {
+      "nom": "Ksar El Kebir",
+      "score": 4
+    },
+    {
+      "nom": "Ouezzane",
+      "score": 4
+    },
+    {
+      "nom": "Bab Bred",
+      "score": 4
+    },
+    {
+      "nom": "Martil",
+      "score": 4
+    },
+    {
+      "nom": " Ketama",
+      "score": 4
+    },
+    {
+      "nom": "Nador",
+      "score": 4
+    },
+    {
+      "nom": "Fnideq",
+      "score": 4
+    },
+    {
+      "nom": " Driouch",
+      "score": 4
+    },
+    {
+      "nom": "Taourirt",
+      "score": 4
+    },
+    {
+      "nom": " Guercif",
+      "score": 4
+    },
+    {
+      "nom": "Beni Ansar",
+      "score": 4
+    },
+    {
+      "nom": "Oued zem ",
+      "score": 4
+    },
+    {
+      "nom": "Khouribga ",
+      "score": 4
+    },
+    {
+      "nom": "Beni mellal ",
+      "score": 4
+    },
+    {
+      "nom": "Fqih ben saleh ",
+      "score": 4
+    },
+    {
+      "nom": "Casablanca",
+      "score": 4
+    },
+    {
+      "nom": "Marrakech",
+      "score": 4
+    },
+    {
+      "nom": "Agadir",
+      "score": 4
+    },
+    {
+      "nom": "Beni Mellal",
+      "score": 4
+    },
+    {
+      "nom": "Inezgane",
+      "score": 4
+    },
+    {
+      "nom": "Tiznit",
+      "score": 4
+    },
+    {
+      "nom": "Sidi Slimane",
+      "score": 4
+    },
+    {
+      "nom": "Had Soualem (Région Casablanca-Settat)",
+      "score": 4
+    },
+    {
+      "nom": "Fès",
+      "score": 4
+    },
+    {
+      "nom": " Taounate",
+      "score": 4
+    },
+    {
+      "nom": "Azemmour",
+      "score": 4
+    },
+    {
+      "nom": "Guercif",
+      "score": 4
+    },
+    {
+      "nom": "Oulad Tayma",
+      "score": 4
+    },
+    {
+      "nom": "Tamesna",
+      "score": 4
+    },
+    {
+      "nom": "Chefchaouen",
+      "score": 4
+    }
+  ],
+  "formes_juridiques": [
+    {
+      "nom": "Société Anonyme (SA)",
+      "score": 2
+    },
+    {
+      "nom": "Société à Responsabilité Limitée (SARL)",
+      "score": 2
+    },
+    {
+      "nom": "Société à Responsabilité d’associé unique ( SARLAU)",
+      "score": 2
+    },
+    {
+      "nom": "Société en commandite simple (SCS)",
+      "score": 3
+    },
+    {
+      "nom": "Société en  nom collectif (SNC)",
+      "score": 2
+    },
+    {
+      "nom": "Association à but non lucratif et ONG",
+      "score": 4
+    },
+    {
+      "nom": "Coopérative",
+      "score": 3
+    },
+    {
+      "nom": "Société par Actions Simplifiée (SAS)",
+      "score": 2
+    },
+    {
+      "nom": "Société civile professionnelle (SCP)",
+      "score": 2
+    },
+    {
+      "nom": "Société Civile Immobilière (SCI)",
+      "score": 4
+    },
+    {
+      "nom": "Groupement d’intérêt économique (GIE)",
+      "score": 2
+    },
+    {
+      "nom": "Société commandite par action (SCA)",
+      "score": 3
+    },
+    {
+      "nom": "Société en participation (SP)",
+      "score": 4
+    },
+    {
+      "nom": "Les organismes publics (PUBL)",
+      "score": 1
+    },
+    {
+      "nom": "succursale/ Bureau de représentation",
+      "score": 3
+    },
+    {
+      "nom": "OPCVM (SICAV)",
+      "score": 1
+    },
+    {
+      "nom": "OPCVM (FCP)",
+      "score": 1
+    },
+    {
+      "nom": "Trusts, Fiducies, Fondations (Construction Juridiques)",
+      "score": 4
+    }
+  ],
+  "activites": [
+    {
+      "nom": "Culture du riz",
+      "score": 2
+    },
+    {
+      "nom": "Culture de légumes, de melons, de racines et de tubercules",
+      "score": 2
+    },
+    {
+      "nom": "Culture de la canne à sucre",
+      "score": 2
+    },
+    {
+      "nom": "Culture du tabac",
+      "score": 2
+    },
+    {
+      "nom": "Culture de plantes à fibres",
+      "score": 2
+    },
+    {
+      "nom": "Culture fourragères",
+      "score": 2
+    },
+    {
+      "nom": "Autres cultures non permanentes",
+      "score": 2
+    },
+    {
+      "nom": "Culture de la vigne",
+      "score": 2
+    },
+    {
+      "nom": "Culture des palmiers-dattiers",
+      "score": 2
+    },
+    {
+      "nom": "Culture d'autres fruits tropicaux et subtropicaux",
+      "score": 2
+    },
+    {
+      "nom": "Culture d'agrumes",
+      "score": 2
+    },
+    {
+      "nom": "Culture de fruits à pépins et à noyau",
+      "score": 2
+    },
+    {
+      "nom": "Culture d'autres fruits d'arbres ou d'arbustes et de fruits à coque",
+      "score": 2
+    },
+    {
+      "nom": "Culture de l'olivier",
+      "score": 2
+    },
+    {
+      "nom": "Culture d'autres fruits oléagineux",
+      "score": 2
+    },
+    {
+      "nom": "Autres cultures permanentes",
+      "score": 2
+    },
+    {
+      "nom": "Multiplication de plantes",
+      "score": 2
+    },
+    {
+      "nom": "Élevage de vaches laitières",
+      "score": 2
+    },
+    {
+      "nom": "Élevage d'autres bovins et de buffles",
+      "score": 2
+    },
+    {
+      "nom": "Élevage de chevaux et d'autres équidés",
+      "score": 2
+    },
+    {
+      "nom": "Élevage de chameaux et d'autres camélidés",
+      "score": 2
+    },
+    {
+      "nom": "Élevage d'ovins et de caprins",
+      "score": 2
+    },
+    {
+      "nom": "Élevage de volailles",
+      "score": 2
+    },
+    {
+      "nom": "Élevage d'autres animaux",
+      "score": 2
+    },
+    {
+      "nom": "Culture et élevage associés",
+      "score": 2
+    },
+    {
+      "nom": "Activités de soutien aux cultures",
+      "score": 2
+    },
+    {
+      "nom": "Activités de soutien à la production animale",
+      "score": 2
+    },
+    {
+      "nom": "Traitement primaire des récoltes",
+      "score": 2
+    },
+    {
+      "nom": "Traitement des semences",
+      "score": 2
+    },
+    {
+      "nom": "Chasse, piégeage et services annexes",
+      "score": 2
+    },
+    {
+      "nom": "Sylviculture et autres activités forestières",
+      "score": 2
+    },
+    {
+      "nom": "Exploitation forestière",
+      "score": 2
+    },
+    {
+      "nom": "Récolte du liège",
+      "score": 2
+    },
+    {
+      "nom": "Récolte de l'alfa",
+      "score": 2
+    },
+    {
+      "nom": "Récolte d'autres produits forestiers non ligneux poussant à l'état sauvage",
+      "score": 2
+    },
+    {
+      "nom": "Services de soutien à l'exploitation forestière",
+      "score": 2
+    },
+    {
+      "nom": "Pêche en mer",
+      "score": 2
+    },
+    {
+      "nom": "Pêche en eau douce",
+      "score": 2
+    },
+    {
+      "nom": "Aquaculture en mer",
+      "score": 2
+    },
+    {
+      "nom": "Aquaculture en eau douce",
+      "score": 2
+    },
+    {
+      "nom": "Extraction de houille",
+      "score": 2
+    },
+    {
+      "nom": "Extraction de lignite",
+      "score": 2
+    },
+    {
+      "nom": "Extraction de pétrole brut",
+      "score": 4
+    },
+    {
+      "nom": "Extraction de gaz naturel",
+      "score": 4
+    },
+    {
+      "nom": "Extraction de minerais de fer",
+      "score": 2
+    },
+    {
+      "nom": "Extraction de minerais de métaux non ferreux",
+      "score": 2
+    },
+    {
+      "nom": "Extraction de pierres ornementales et de construction, de calcaire industriel, de gypse, de craie et d'ardoise",
+      "score": 2
+    },
+    {
+      "nom": "Exploitation de gravières et sablières, extraction d’argiles et de kaolin",
+      "score": 2
+    },
+    {
+      "nom": "Extraction de phosphates naturels",
+      "score": 2
+    },
+    {
+      "nom": "Extraction des minéraux chimiques et d'engrais minéraux (hors phosphates naturels)",
+      "score": 2
+    },
+    {
+      "nom": "Extraction de tourbe",
+      "score": 2
+    },
+    {
+      "nom": "Production de sel",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités extractives n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Activités de soutien à l'extraction d'hydrocarbures",
+      "score": 2
+    },
+    {
+      "nom": "Activités de soutien aux autres industries extractives",
+      "score": 2
+    },
+    {
+      "nom": "Transformation et conservation de la viande de boucherie",
+      "score": 2
+    },
+    {
+      "nom": "Transformation et conservation de la viande de volaille",
+      "score": 2
+    },
+    {
+      "nom": "Préparation de produits à base de viande",
+      "score": 2
+    },
+    {
+      "nom": "Congélation et surgélation de poissons, de crustacés et de mollusques",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités de transformation et de conservation de poissons, de crustacés et de mollusques",
+      "score": 2
+    },
+    {
+      "nom": "Transformation et conservation de tomates",
+      "score": 2
+    },
+    {
+      "nom": "Préparation de jus de fruits et légumes",
+      "score": 2
+    },
+    {
+      "nom": "Transformation et conservation d'autres fruits et légumes",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'huiles d'olives",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'huiles d'arganier",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres huiles et graisses non comestibles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de margarine et graisses comestibles similaires",
+      "score": 2
+    },
+    {
+      "nom": "Exploitation de laiteries et fabrication de fromage",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de glaces et sorbets",
+      "score": 2
+    },
+    {
+      "nom": "Travail des grains",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de produits amylacés",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de pain et de pâtisserie fraîche",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de biscuits, biscottes et pâtisseries de conservation",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de pâtes alimentaires et de couscous",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de sucre",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de cacao, chocolat et de produits de confiserie",
+      "score": 2
+    },
+    {
+      "nom": "Transformation du thé et du café",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de condiments et assaisonnements",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de plats préparés",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'aliments homogénéisés et diététiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres produits alimentaires n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'aliments pour animaux de ferme",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'aliments pour animaux de compagnie",
+      "score": 2
+    },
+    {
+      "nom": "Production de boissons alcooliques distillées",
+      "score": 2
+    },
+    {
+      "nom": "Production de boissons alcooliques non distillées",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de bière et de malt",
+      "score": 2
+    },
+    {
+      "nom": "Industrie des eaux minérales et autres eaux embouteillées",
+      "score": 2
+    },
+    {
+      "nom": "Industrie des boissons rafraîchissantes",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de produits à base de tabac",
+      "score": 2
+    },
+    {
+      "nom": "Préparation de fibres textiles et filature",
+      "score": 2
+    },
+    {
+      "nom": "Tissage",
+      "score": 2
+    },
+    {
+      "nom": "Ennoblissement textile",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication manufacturière de tapis et moquettes",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication manuelle de tapis",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'étoffes à mailles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles textiles, sauf habillement",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication artisanale d'articles textiles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de ficelles, cordes et filets",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de non-tissés, sauf habillement",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres textiles techniques et industriels",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres textiles n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de vêtements en cuir",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de vêtements de travail",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de vêtements sur mesure",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication industrielle de vêtements de dessus",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication artisanale de vêtements traditionnels",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de vêtements de dessous",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres vêtements et accessoires",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles en fourrure",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles chaussants à mailles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres articles à mailles",
+      "score": 2
+    },
+    {
+      "nom": "Apprêt et tannage des cuirs",
+      "score": 2
+    },
+    {
+      "nom": "Préparation et teinture des fourrures",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles de voyage, de maroquinerie et de sellerie",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles traditionnels de voyage, de maroquinerie et de sellerie",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication manufacturière de chaussures",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication manuelle de chaussures",
+      "score": 2
+    },
+    {
+      "nom": "Sciage et rabotage du bois",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de placage et de panneaux de bois",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de parquets assemblés",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de charpentes et d'autres menuiseries",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'emballages en bois",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'objets divers en bois",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'objets en liège",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication artisanale d'objets divers en bois; vannerie et sparterie",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de pâte à papier",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de papier et de carton",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de papier et carton ondulés et d'emballages en papier ou en carton",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles en papier à usage sanitaire ou\ndomestique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles de papeterie",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de papiers peints",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres articles en papier ou en carton",
+      "score": 2
+    },
+    {
+      "nom": "Imprimerie de journaux",
+      "score": 2
+    },
+    {
+      "nom": "Autre imprimerie (labeur)",
+      "score": 2
+    },
+    {
+      "nom": "Activités de pré-presse",
+      "score": 2
+    },
+    {
+      "nom": "Reliure et activités connexes",
+      "score": 2
+    },
+    {
+      "nom": "Reproduction d'enregistrements",
+      "score": 2
+    },
+    {
+      "nom": "Cokéfaction",
+      "score": 4
+    },
+    {
+      "nom": "Raffinage du pétrole",
+      "score": 4
+    },
+    {
+      "nom": "Fabrication de gaz industriels",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de colorants et de pigments",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres produits chimiques inorganiques de base",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres produits chimiques organiques de base",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de produits azotés et d'engrais",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de matières plastiques de base",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de caoutchouc synthétique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de pesticides et d’autres produits agrochimiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de peintures, vernis, encres et mastics",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de savons, détergents et produits d'entretien",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de parfums et de produits pour la toilette",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de produits explosifs",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de colles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'huiles essentielles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres produits chimiques n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de fibres artificielles ou synthétiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de produits pharmaceutiques de base",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de préparations pharmaceutiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication et rechapage de pneumatiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres articles en caoutchouc",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de plaques, feuilles, tubes et profilés en matières plastiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'emballages en matières plastiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'éléments en matières plastiques pour la\nconstruction",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres articles en matières plastiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de verre plat",
+      "score": 2
+    },
+    {
+      "nom": "Façonnage et transformation du verre plat",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de verre creux",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de fibres de verre",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication et façonnage d'autres articles en verre, y compris verre technique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de produits réfractaires",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de carreaux en céramique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de briques, tuiles et produits de construction en terre cuite",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de produits artisanaux à partir d’argile",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles céramiques à usage domestique ou ornemental",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication artisanale d'articles céramiques à usage\ndomestique ou ornemental",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'appareils sanitaires en céramique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'isolateurs et pièces isolantes en céramique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres produits céramiques à usage technique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres produits céramiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de ciment",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de chaux",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de plâtre",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'éléments en béton pour la construction",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'éléments en plâtre pour la construction",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de béton prêt à l'emploi",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de mortiers et bétons secs",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'ouvrages en fibre-ciment",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres ouvrages en béton, en ciment ou en plâtre",
+      "score": 2
+    },
+    {
+      "nom": "Taille, façonnage et finissage de pierres",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de produits abrasifs",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres produits minéraux non métalliques n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Sidérurgie",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de tubes, tuyaux, profilés creux et accessoires correspondants en acier",
+      "score": 2
+    },
+    {
+      "nom": "Étirage à froid de barres",
+      "score": 2
+    },
+    {
+      "nom": "Laminage à froid de feuillards",
+      "score": 2
+    },
+    {
+      "nom": "Profilage à froid par formage ou pliage",
+      "score": 2
+    },
+    {
+      "nom": "Tréfilage à froid",
+      "score": 2
+    },
+    {
+      "nom": "Production de métaux précieux",
+      "score": 4
+    },
+    {
+      "nom": "Métallurgie de l'aluminium",
+      "score": 2
+    },
+    {
+      "nom": "Métallurgie du plomb, du zinc ou de l'étain",
+      "score": 2
+    },
+    {
+      "nom": "Métallurgie du cuivre",
+      "score": 2
+    },
+    {
+      "nom": "Métallurgie des autres métaux non ferreux",
+      "score": 2
+    },
+    {
+      "nom": "Élaboration et transformation de matières nucléaires",
+      "score": 2
+    },
+    {
+      "nom": "Fonderie de fonte",
+      "score": 2
+    },
+    {
+      "nom": "Fonderie d'acier",
+      "score": 2
+    },
+    {
+      "nom": "Fonderie de métaux légers",
+      "score": 2
+    },
+    {
+      "nom": "Fonderie d'autres métaux non ferreux",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de structures métalliques et de parties de\nstructures",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de portes et fenêtres en métal",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de radiateurs et de chaudières pour le chauffage central",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de récipients métalliques pour gaz comprimés ou liquéfiés",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres réservoirs, citernes et conteneurs\nmétalliques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de générateurs de vapeur, à l'exception des chaudières pour le chauffage central",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'armes et de munitions",
+      "score": 2
+    },
+    {
+      "nom": "Forge, emboutissage, estampage; métallurgie des poudres",
+      "score": 2
+    },
+    {
+      "nom": "Traitement et revêtement des métaux",
+      "score": 2
+    },
+    {
+      "nom": "Usinage",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de coutellerie",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de serrures et de ferrures",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'outillage",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de fûts et emballages métalliques similaires",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'emballages métalliques légers",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles en fils métalliques, de chaînes et de ressorts",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de vis et de boulons",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication artisanale d'ouvrages traditionnels en métaux",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres produits métalliques n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de composants électroniques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de cartes électroniques assemblées",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'ordinateurs et d'équipements périphériques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'équipements de communication",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de produits électroniques grand public",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'instruments et d'appareils de mesure, d'essai et de navigation",
+      "score": 2
+    },
+    {
+      "nom": "Horlogerie",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'équipements d'irradiation médicale,\nd'équipements électromédicaux et électrothérapeutiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de matériels optique et photographique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de supports magnétiques et optiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de moteurs, génératrices et transformateurs électriques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de matériel de distribution et de commande électrique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de piles et d'accumulateurs électriques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de câbles de fibres optiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres fils et câbles électroniques ou électriques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de matériel d'installation électrique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'appareils d'éclairage électrique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'appareils électroménagers",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'appareils ménagers non électriques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres matériels électriques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de moteurs et turbines, à l'exception des moteurs d’avions et de véhicules",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'équipements hydrauliques et pneumatiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres pompes et compresseurs",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres articles de robinetterie",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'engrenages et d'organes mécaniques de\ntransmission",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de fours et brûleurs",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de matériel de levage et de manutention",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines et d'équipements de bureau (à l'exception des ordinateurs et équipements périphériques)",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'outillage portatif à moteur incorporé",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'équipements aérauliques et frigorifiques industriels",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines diverses d'usage général",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines agricoles et forestières",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines de formage des métaux",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres machines-outils",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines pour la métallurgie",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines pour l'extraction ou la construction",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines pour l'industrie agro-alimentaire",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines pour les industries textiles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines pour les industries du papier et du carton",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de machines pour le travail du caoutchouc ou des plastiques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres machines d'usage spécifique n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Construction de véhicules automobiles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de carrosseries et remorques",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'équipements électriques et électroniques automobiles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres équipements automobiles",
+      "score": 2
+    },
+    {
+      "nom": "Construction de navires et de structures flottantes",
+      "score": 2
+    },
+    {
+      "nom": "Construction de bateaux de plaisance",
+      "score": 2
+    },
+    {
+      "nom": "Construction de locomotives et d'autre matériel ferroviaire roulant",
+      "score": 2
+    },
+    {
+      "nom": "Construction aéronautique et spatiale",
+      "score": 2
+    },
+    {
+      "nom": "Construction de véhicules militaires de combat",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de motocycles",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de bicyclettes et de véhicules pour invalides",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d’autres équipements de transport n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de meubles de bureau et de magasin",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de meubles de cuisine",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de matelas",
+      "score": 2
+    },
+    {
+      "nom": "Industries connexes de l'ameublement",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'autres meubles",
+      "score": 2
+    },
+    {
+      "nom": "Frappe de monnaie",
+      "score": 4
+    },
+    {
+      "nom": "Fabrication d’articles de joaillerie et bijouterie",
+      "score": 4
+    },
+    {
+      "nom": "Fabrication d’articles de bijouterie fantaisie et articles\nsimilaires",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'instruments de musique",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'articles de sport",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication de jeux et jouets",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d'instruments et de fournitures à usage médical et dentaire",
+      "score": 2
+    },
+    {
+      "nom": "Fabrication d’articles de brosserie",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités manufacturières n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Réparation d'ouvrages en métaux",
+      "score": 2
+    },
+    {
+      "nom": "Réparation de machines et équipements mécaniques",
+      "score": 2
+    },
+    {
+      "nom": "Réparation de matériels électroniques et optiques",
+      "score": 2
+    },
+    {
+      "nom": "Réparation d'équipements électriques",
+      "score": 2
+    },
+    {
+      "nom": "Réparation et maintenance navale",
+      "score": 2
+    },
+    {
+      "nom": "Réparation et maintenance d'aéronefs et d'engins spatiaux",
+      "score": 2
+    },
+    {
+      "nom": "Réparation et maintenance d'autres équipements de transport",
+      "score": 2
+    },
+    {
+      "nom": "Réparation d'autres équipements",
+      "score": 2
+    },
+    {
+      "nom": "Installation de machines et d'équipements industriels",
+      "score": 2
+    },
+    {
+      "nom": "Production  et transport d'électricité",
+      "score": 2
+    },
+    {
+      "nom": "Distribution et commerce d'électricité",
+      "score": 2
+    },
+    {
+      "nom": "Production  et distribution de combustibles gazeux",
+      "score": 2
+    },
+    {
+      "nom": "Production et distribution de vapeur et d'air conditionné",
+      "score": 2
+    },
+    {
+      "nom": "Captage, traitement et distribution d'eau",
+      "score": 2
+    },
+    {
+      "nom": "Collecte et traitement des eaux usées",
+      "score": 2
+    },
+    {
+      "nom": "Collecte des déchets non dangereux",
+      "score": 2
+    },
+    {
+      "nom": "Collecte des déchets dangereux",
+      "score": 2
+    },
+    {
+      "nom": "Traitement et élimination des déchets non dangereux",
+      "score": 2
+    },
+    {
+      "nom": "Traitement et élimination des déchets dangereux",
+      "score": 2
+    },
+    {
+      "nom": "Démantèlement d'épaves",
+      "score": 2
+    },
+    {
+      "nom": "Récupération de déchets triés",
+      "score": 2
+    },
+    {
+      "nom": "Dépollution et autres services de gestion des déchets",
+      "score": 2
+    },
+    {
+      "nom": "Promotion immobilière",
+      "score": 4
+    },
+    {
+      "nom": "Construction de bâtiments résidentiels et non résidentiels",
+      "score": 4
+    },
+    {
+      "nom": "Construction de routes et autoroutes",
+      "score": 4
+    },
+    {
+      "nom": "Construction de voies ferrées de surface et souterraines",
+      "score": 4
+    },
+    {
+      "nom": "Construction de ponts et tunnels",
+      "score": 4
+    },
+    {
+      "nom": "Construction de réseaux pour fluides",
+      "score": 4
+    },
+    {
+      "nom": "Construction de réseaux électriques et de télécommunications",
+      "score": 4
+    },
+    {
+      "nom": "Construction d'ouvrages maritimes et fluviaux",
+      "score": 4
+    },
+    {
+      "nom": "Construction d'autres ouvrages de génie civil n.c.a.",
+      "score": 4
+    },
+    {
+      "nom": "Travaux de démolition",
+      "score": 2
+    },
+    {
+      "nom": "Travaux de préparation des sites",
+      "score": 2
+    },
+    {
+      "nom": "Forages et sondages",
+      "score": 2
+    },
+    {
+      "nom": "Installation électrique",
+      "score": 2
+    },
+    {
+      "nom": "Travaux de plomberie et installation de chauffage et de conditionnement d'air",
+      "score": 2
+    },
+    {
+      "nom": "Autres travaux d'installation",
+      "score": 2
+    },
+    {
+      "nom": "Travaux de plâtrerie",
+      "score": 2
+    },
+    {
+      "nom": "Travaux de menuiserie",
+      "score": 2
+    },
+    {
+      "nom": "Travaux de revêtement des sols et des murs",
+      "score": 2
+    },
+    {
+      "nom": "Miroiterie de bâtiment, vitrerie",
+      "score": 2
+    },
+    {
+      "nom": "Travaux de peinture",
+      "score": 2
+    },
+    {
+      "nom": "Autres travaux de finition",
+      "score": 2
+    },
+    {
+      "nom": "Travaux de couverture",
+      "score": 2
+    },
+    {
+      "nom": "Autres travaux de construction spécialisés n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de voitures et de véhicules automobiles légers",
+      "score": 2
+    },
+    {
+      "nom": "Commerce d'autres véhicules automobiles",
+      "score": 2
+    },
+    {
+      "nom": "Entretien et réparation de véhicules automobiles",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'équipements automobiles",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'équipements automobiles",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de motocycles",
+      "score": 2
+    },
+    {
+      "nom": "Réparation de motocycles",
+      "score": 2
+    },
+    {
+      "nom": "Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et produits semi-finis",
+      "score": 2
+    },
+    {
+      "nom": "Intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques",
+      "score": 2
+    },
+    {
+      "nom": "Intermédiaires du commerce en bois et matériaux de\nconstruction",
+      "score": 2
+    },
+    {
+      "nom": "Intermédiaires du commerce en machines, équipements industriels, navires et avions",
+      "score": 2
+    },
+    {
+      "nom": "Intermédiaires du commerce en meubles, articles de ménage et quincaillerie",
+      "score": 2
+    },
+    {
+      "nom": "Intermédiaires du commerce en textiles, habillement,\nfourrures, chaussures et articles en cuir",
+      "score": 2
+    },
+    {
+      "nom": "Intermédiaires du commerce en denrées, boissons et tabac",
+      "score": 2
+    },
+    {
+      "nom": "Intermédiaires spécialisés dans le commerce d'autres produits spécifiques",
+      "score": 2
+    },
+    {
+      "nom": "Intermédiaires du commerce en produits divers",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de céréales et aliments pour le bétail",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de tabac non manufacturé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de fleurs et plantes",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'animaux vivants",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de cuirs et peaux",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de fruits et légumes",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de viandes et de produits à base de viande",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de produits laitiers, œufs, huiles et\nmatières grasses comestibles",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de boissons",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de produits à base de tabac",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de sucre, cacao, chocolat, confiserie, café, thé et épices",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de poissons, crustacés et mollusques",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'autres produits alimentaires",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros non spécialisé de denrées",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de textiles",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'habillement et de chaussures",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'appareils électroménagers",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de vaisselle, verrerie et produits\nd'entretien",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de parfumerie et de produits de beauté",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de produits pharmaceutiques",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de meubles, de tapis et d'appareils\nd'éclairage",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'articles d'horlogerie et de bijouterie",
+      "score": 4
+    },
+    {
+      "nom": "Commerce de gros d'autres biens domestiques",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'ordinateurs, d'équipements\ninformatiques périphériques et de logiciels",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de composants et d'équipements\nélectroniques et de télécommunication",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de matériel agricole",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de machines-outils",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de machines pour l'extraction, la\nconstruction et le génie civil",
+      "score": 4
+    },
+    {
+      "nom": "Commerce de gros de machines pour l'industrie textile et l'habillement",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de mobilier de bureau",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'autres machines et équipements de bureau",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'autres machines et équipements",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de combustibles et de produits annexes",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de minerais et métaux",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de bois et de produits dérivés",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de matériaux de construction et\nd'appareils sanitaires",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de quincaillerie et fournitures pour\nplomberie et chauffage",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de produits chimiques",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros d'autres produits intermédiaires",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros de déchets et débris",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de gros non spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce d'alimentation générale",
+      "score": 2
+    },
+    {
+      "nom": "Superettes",
+      "score": 2
+    },
+    {
+      "nom": "Supermachés",
+      "score": 2
+    },
+    {
+      "nom": "Hypermarchés",
+      "score": 2
+    },
+    {
+      "nom": "Autre commerce de détail en magasin non spécialisé à\nprédominance alimentaire",
+      "score": 2
+    },
+    {
+      "nom": "Autre commerce de détail en magasin en produits divers de\nl'artisanat",
+      "score": 2
+    },
+    {
+      "nom": "Autre commerce de détail en magasin non spécialisé sans\nprédominance alimentaire",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de fruits et légumes en magasin\nspécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de viandes et de produits à base de\nviande en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de poissons, crustacés et mollusques en\nmagasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de pain, pâtisserie et confiserie en\nmagasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de boissons en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de produits à base de tabac en magasin\nspécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Autres commerces de détail alimentaires en magasin\nspécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de carburants en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'ordinateurs, d'unités périphériques et\nde logiciels en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de matériels de télécommunication en\nmagasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de matériels audio/vidéo en magasin\nspécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de textiles en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de quincaillerie, peintures et verres en\nmagasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de tapis, moquettes et revêtements de\nmurs et de sols en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'appareils électroménagers en magasin\nspécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de meubles, appareils d'éclairage et\nautres articles de ménage en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de livres en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de journaux et papeterie en magasin\nspécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'enregistrements musicaux et vidéo en\nmagasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'articles de sport en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'articles de jeux et jouets en magasin\nspécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'habillement en magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de chaussures et d'articles en cuir en\nmagasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de produits pharmaceutiques en magasin\nspécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'articles médicaux et orthopédiques en\nmagasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de parfumerie et de produits de beauté\nen magasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'optique et de photographie",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail d'articles d'horlogerie et de bijouterie en\nmagasin spécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Autre commerce de détail de biens neufs en magasin\nspécialisé",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de biens d'occasion en magasin",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail alimentaire sur éventaires et marchés",
+      "score": 2
+    },
+    {
+      "nom": "Commerce de détail de textiles, d'habillement et de\nchaussures sur éventaires et marchés",
+      "score": 2
+    },
+    {
+      "nom": "Autres commerces de détail sur éventaires et marchés",
+      "score": 2
+    },
+    {
+      "nom": "Vente par correspondance",
+      "score": 2
+    },
+    {
+      "nom": "Vente par Internet",
+      "score": 2
+    },
+    {
+      "nom": "Autres commerces de détail hors magasin, éventaires ou marchés",
+      "score": 2
+    },
+    {
+      "nom": "Transport ferroviaire interurbain de voyageurs",
+      "score": 2
+    },
+    {
+      "nom": "Transports ferroviaires de fret",
+      "score": 2
+    },
+    {
+      "nom": "Transports urbains et suburbains de voyageurs",
+      "score": 2
+    },
+    {
+      "nom": "Transports de voyageurs par taxis",
+      "score": 2
+    },
+    {
+      "nom": "Autres transports terrestres de voyageurs n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Transports routiers de fret",
+      "score": 2
+    },
+    {
+      "nom": "Services de déménagement",
+      "score": 2
+    },
+    {
+      "nom": "Transports par conduites",
+      "score": 2
+    },
+    {
+      "nom": "Transports maritimes et côtiers de passagers",
+      "score": 2
+    },
+    {
+      "nom": "Transports maritimes et côtiers de fret",
+      "score": 2
+    },
+    {
+      "nom": "Transports fluviaux de passagers",
+      "score": 2
+    },
+    {
+      "nom": "Transports fluviaux de fret",
+      "score": 2
+    },
+    {
+      "nom": "Transports aériens de passagers",
+      "score": 2
+    },
+    {
+      "nom": "Transports aériens de fret",
+      "score": 2
+    },
+    {
+      "nom": "Transports spatiaux",
+      "score": 2
+    },
+    {
+      "nom": "Entreposage et stockage frigorifique",
+      "score": 2
+    },
+    {
+      "nom": "Entreposage et stockage non frigorifique",
+      "score": 2
+    },
+    {
+      "nom": "Services auxiliaires des transports terrestres",
+      "score": 2
+    },
+    {
+      "nom": "Services auxiliaires des transports par eau",
+      "score": 2
+    },
+    {
+      "nom": "Services auxiliaires des transports aériens",
+      "score": 2
+    },
+    {
+      "nom": "Manutention",
+      "score": 2
+    },
+    {
+      "nom": "Autres services auxiliaires des transports",
+      "score": 2
+    },
+    {
+      "nom": "Activités de poste dans le cadre d'une obligation de service universel",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités de poste et de courrier",
+      "score": 2
+    },
+    {
+      "nom": "Hôtels et hébergement similaire",
+      "score": 3
+    },
+    {
+      "nom": "Hébergement touristique et autre hébergement de courte\ndurée",
+      "score": 3
+    },
+    {
+      "nom": "Terrains de camping et parcs pour caravanes ou véhicules de\nloisirs",
+      "score": 3
+    },
+    {
+      "nom": "Autres hébergements",
+      "score": 3
+    },
+    {
+      "nom": "Restaurants et services de restauration mobile",
+      "score": 3
+    },
+    {
+      "nom": "Services des traiteurs",
+      "score": 3
+    },
+    {
+      "nom": "Autres services de restauration",
+      "score": 3
+    },
+    {
+      "nom": "Cafés",
+      "score": 3
+    },
+    {
+      "nom": "Débits de boissons alcoolisées",
+      "score": 3
+    },
+    {
+      "nom": "Édition de livres",
+      "score": 2
+    },
+    {
+      "nom": "Édition de répertoires et de fichiers d'adresses",
+      "score": 2
+    },
+    {
+      "nom": "Édition de journaux",
+      "score": 2
+    },
+    {
+      "nom": "Édition de revues et périodiques",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités d'édition",
+      "score": 2
+    },
+    {
+      "nom": "Édition de jeux électroniques",
+      "score": 2
+    },
+    {
+      "nom": "Édition d'autres logiciels",
+      "score": 2
+    },
+    {
+      "nom": "Production de films cinématographiques, de vidéo et de programmes de\ntélévision",
+      "score": 2
+    },
+    {
+      "nom": "Post-production de films cinématographiques, de vidéo et de\nprogrammes de télévision",
+      "score": 2
+    },
+    {
+      "nom": "Distribution de films cinématographiques, de vidéo et de programmes\nde télévision",
+      "score": 2
+    },
+    {
+      "nom": "Projection de films cinématographiques",
+      "score": 2
+    },
+    {
+      "nom": "Enregistrement sonore et édition musicale",
+      "score": 2
+    },
+    {
+      "nom": "Édition et diffusion de programmes radio",
+      "score": 2
+    },
+    {
+      "nom": "Programmation de télévision et télédiffusion",
+      "score": 2
+    },
+    {
+      "nom": "Télécommunications filaires",
+      "score": 2
+    },
+    {
+      "nom": "Télécommunications sans fil",
+      "score": 2
+    },
+    {
+      "nom": "Télécommunications par satellite",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités de télécommunication",
+      "score": 2
+    },
+    {
+      "nom": "Programmation informatique",
+      "score": 2
+    },
+    {
+      "nom": "Conseil informatique",
+      "score": 2
+    },
+    {
+      "nom": "Gestion d'installations informatiques",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités informatiques",
+      "score": 2
+    },
+    {
+      "nom": "Traitement de données, hébergement et activités connexes",
+      "score": 2
+    },
+    {
+      "nom": "Portails Internet",
+      "score": 2
+    },
+    {
+      "nom": "Activités des agences de presse",
+      "score": 2
+    },
+    {
+      "nom": "Autres services d'information n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Activités de banque centrale",
+      "score": 4
+    },
+    {
+      "nom": "Autres intermédiations monétaires",
+      "score": 4
+    },
+    {
+      "nom": "Activités des sociétés holding",
+      "score": 4
+    },
+    {
+      "nom": "Crédit-bail",
+      "score": 4
+    },
+    {
+      "nom": "Autre distribution de crédit",
+      "score": 4
+    },
+    {
+      "nom": "Autres activités des services financiers, hors assurance et  caisses de retraite, n.c.a.",
+      "score": 4
+    },
+    {
+      "nom": "Fonds de placement et entités financières similaires",
+      "score": 1
+    },
+    {
+      "nom": "Assurance vie",
+      "score": 1
+    },
+    {
+      "nom": "Autres assurances",
+      "score": 1
+    },
+    {
+      "nom": "Réassurance",
+      "score": 1
+    },
+    {
+      "nom": "Caisses de retraite",
+      "score": 1
+    },
+    {
+      "nom": "Administration de marchés financiers",
+      "score": 1
+    },
+    {
+      "nom": "Courtage de valeurs mobilières et de marchandises",
+      "score": 1
+    },
+    {
+      "nom": "Autres activités auxiliaires de services financiers, hors assurance et caisses de retraite",
+      "score": 1
+    },
+    {
+      "nom": "Évaluation des risques et dommages",
+      "score": 1
+    },
+    {
+      "nom": "Activités des agents et courtiers d'assurances",
+      "score": 1
+    },
+    {
+      "nom": "Autres activités auxiliaires d'assurance et de caisses de retraite",
+      "score": 1
+    },
+    {
+      "nom": "Gestion de fonds",
+      "score": 1
+    },
+    {
+      "nom": "Activités des marchands de biens immobiliers",
+      "score": 4
+    },
+    {
+      "nom": "Location et exploitation de biens immobiliers résidentiels propres ou loués",
+      "score": 4
+    },
+    {
+      "nom": "Location et exploitation de terrains",
+      "score": 4
+    },
+    {
+      "nom": "Location et exploitation d'autres biens immobiliers propres ou loués",
+      "score": 4
+    },
+    {
+      "nom": "Agences immobilières",
+      "score": 4
+    },
+    {
+      "nom": "Administration de biens immobiliers",
+      "score": 4
+    },
+    {
+      "nom": "Activités juridiques",
+      "score": 3
+    },
+    {
+      "nom": "Activités comptables",
+      "score": 3
+    },
+    {
+      "nom": "Activités des sièges sociaux",
+      "score": 3
+    },
+    {
+      "nom": "Conseil en relations publiques et communication",
+      "score": 3
+    },
+    {
+      "nom": "Conseil pour les affaires et autres conseils de gestion",
+      "score": 3
+    },
+    {
+      "nom": "Activités d'architecture",
+      "score": 2
+    },
+    {
+      "nom": "Activités d'ingénierie",
+      "score": 2
+    },
+    {
+      "nom": "Activités de contrôle et analyses techniques",
+      "score": 2
+    },
+    {
+      "nom": "Recherche-développement en biotechnologie",
+      "score": 2
+    },
+    {
+      "nom": "Recherche-développement en autres sciences physiques et naturelles",
+      "score": 2
+    },
+    {
+      "nom": "Recherche-développement en sciences humaines et sociales",
+      "score": 2
+    },
+    {
+      "nom": "Activités des agences de publicité",
+      "score": 2
+    },
+    {
+      "nom": "Régie publicitaire de médias",
+      "score": 2
+    },
+    {
+      "nom": "Études de marché et sondages",
+      "score": 2
+    },
+    {
+      "nom": "Activités spécialisées de design",
+      "score": 2
+    },
+    {
+      "nom": "Activités photographiques",
+      "score": 2
+    },
+    {
+      "nom": "Traduction et interprétation",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités spécialisées, scientifiques et techniques n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Activités vétérinaires",
+      "score": 2
+    },
+    {
+      "nom": "Location et location-bail de voitures et de véhicules\nautomobiles légers",
+      "score": 3
+    },
+    {
+      "nom": "Location et location-bail de camions",
+      "score": 3
+    },
+    {
+      "nom": "Location et location-bail d'articles de loisirs et de sport",
+      "score": 3
+    },
+    {
+      "nom": "Location de vidéocassettes et disques vidéo",
+      "score": 3
+    },
+    {
+      "nom": "Location et location-bail d'autres biens personnels et\ndomestiques",
+      "score": 3
+    },
+    {
+      "nom": "Location et location-bail de machines et équipements\nagricoles",
+      "score": 3
+    },
+    {
+      "nom": "Location et location-bail de machines et équipements pour la\nconstruction",
+      "score": 3
+    },
+    {
+      "nom": "Location et location-bail de machines de bureau et de\nmatériel informatique",
+      "score": 3
+    },
+    {
+      "nom": "Location et location-bail de matériels de transport par eau",
+      "score": 3
+    },
+    {
+      "nom": "Location et location-bail de matériels de transport aérien",
+      "score": 3
+    },
+    {
+      "nom": "Location et location-bail d'autres machines, équipements et\nbiens matériels n.c.a.",
+      "score": 3
+    },
+    {
+      "nom": "Location-bail de propriété intellectuelle et de produits\nsimilaires, à l'exception des œuvres soumises à copyright",
+      "score": 3
+    },
+    {
+      "nom": "Activités des agences de placement de main-d'œuvre",
+      "score": 2
+    },
+    {
+      "nom": "Activités des agences de travail temporaire",
+      "score": 2
+    },
+    {
+      "nom": "Autre mise à disposition de ressources humaines",
+      "score": 2
+    },
+    {
+      "nom": "Activités des agences de voyage",
+      "score": 2
+    },
+    {
+      "nom": "Activités des voyagistes",
+      "score": 2
+    },
+    {
+      "nom": "Autres services de réservation et activités connexes",
+      "score": 2
+    },
+    {
+      "nom": "Activités de sécurité privée",
+      "score": 2
+    },
+    {
+      "nom": "Activités liées aux systèmes de sécurité",
+      "score": 2
+    },
+    {
+      "nom": "Activités d'enquête",
+      "score": 2
+    },
+    {
+      "nom": "Activités combinées de soutien lié aux bâtiments",
+      "score": 2
+    },
+    {
+      "nom": "Nettoyage courant des bâtiments",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités de nettoyage des bâtiments et nettoyage industriel",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités de nettoyage",
+      "score": 2
+    },
+    {
+      "nom": "Services d'aménagement paysager",
+      "score": 2
+    },
+    {
+      "nom": "Services administratifs combinés de bureau",
+      "score": 2
+    },
+    {
+      "nom": "Photocopie, préparation de documents et autres activités\nspécialisées de soutien de bureau",
+      "score": 2
+    },
+    {
+      "nom": "Activités de centres d'appels",
+      "score": 2
+    },
+    {
+      "nom": "Organisation de salons professionnels et congrès",
+      "score": 2
+    },
+    {
+      "nom": "Activités des agences de recouvrement de factures et des\nsociétés d'information financière sur la clientèle",
+      "score": 2
+    },
+    {
+      "nom": "Activités de conditionnement",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités de soutien aux entreprises n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Administration publique générale",
+      "score": 2
+    },
+    {
+      "nom": "Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale",
+      "score": 2
+    },
+    {
+      "nom": "Administration publique (tutelle) des activités économiques",
+      "score": 2
+    },
+    {
+      "nom": "Affaires étrangères",
+      "score": 2
+    },
+    {
+      "nom": "Défense",
+      "score": 2
+    },
+    {
+      "nom": "Justice",
+      "score": 2
+    },
+    {
+      "nom": "Activités d’ordre public et de sécurité",
+      "score": 2
+    },
+    {
+      "nom": "Protection civile",
+      "score": 2
+    },
+    {
+      "nom": "Sécurité sociale obligatoire",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement coranique",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement pré-primaire",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement primaire",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement secondaire collégial général",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement secondaire qualifiant général",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement secondaire qualifiant technique ou\nprofessionnel",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement post-Bac non supérieur (CPGE et BTS)",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement supérieur",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement de disciplines sportives et d'activités de loisirs",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement culturel",
+      "score": 2
+    },
+    {
+      "nom": "Enseignement de la conduite",
+      "score": 2
+    },
+    {
+      "nom": "Enseignements divers",
+      "score": 2
+    },
+    {
+      "nom": "Activités de soutien à l'enseignement",
+      "score": 2
+    },
+    {
+      "nom": "Activités hospitalières",
+      "score": 2
+    },
+    {
+      "nom": "Activité des médecins généralistes",
+      "score": 2
+    },
+    {
+      "nom": "Activité des médecins spécialistes",
+      "score": 2
+    },
+    {
+      "nom": "Pratique dentaire",
+      "score": 2
+    },
+    {
+      "nom": "Laboratoires d'analyses médicales",
+      "score": 2
+    },
+    {
+      "nom": "Ambulances",
+      "score": 2
+    },
+    {
+      "nom": "Centres de collecte et banques de sang et d'organes",
+      "score": 2
+    },
+    {
+      "nom": "Soins hors d'un cadre réglementé",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités pour la santé humaine",
+      "score": 2
+    },
+    {
+      "nom": "Hébergement médicalisé",
+      "score": 2
+    },
+    {
+      "nom": "Hébergement social pour personnes handicapées mentales, malades mentales et toxicomanes",
+      "score": 2
+    },
+    {
+      "nom": "Hébergement social pour personnes âgées ou handicapées physiques",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités d’hébergement social",
+      "score": 2
+    },
+    {
+      "nom": "Action sociale sans hébergement pour personnes âgées et pour personnes handicapées",
+      "score": 2
+    },
+    {
+      "nom": "Action sociale sans hébergement pour jeunes enfants",
+      "score": 2
+    },
+    {
+      "nom": "Autre action sociale sans hébergement n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Arts du spectacle vivant",
+      "score": 2
+    },
+    {
+      "nom": "Activités de soutien au spectacle vivant",
+      "score": 2
+    },
+    {
+      "nom": "Création artistique",
+      "score": 2
+    },
+    {
+      "nom": "Gestion de salles de spectacles et de conservatoires de\nmusique",
+      "score": 2
+    },
+    {
+      "nom": "Gestion des bibliothèques et des archives et de centres\nculturels",
+      "score": 2
+    },
+    {
+      "nom": "Gestion des musées",
+      "score": 2
+    },
+    {
+      "nom": "Gestion des sites et monuments historiques et des attractions\ntouristiques similaires",
+      "score": 2
+    },
+    {
+      "nom": "Gestion des jardins botaniques et zoologiques et des réserves\nnaturelles",
+      "score": 2
+    },
+    {
+      "nom": "Organisation de jeux de hasard et d'argent",
+      "score": 4
+    },
+    {
+      "nom": "Gestion d'installations sportives",
+      "score": 2
+    },
+    {
+      "nom": "Activités de clubs de sports",
+      "score": 2
+    },
+    {
+      "nom": "Activités des centres de culture physique",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités liées au sport",
+      "score": 2
+    },
+    {
+      "nom": "Activités des parcs d'attractions et parcs à thèmes",
+      "score": 2
+    },
+    {
+      "nom": "Autres activités récréatives et de loisirs",
+      "score": 2
+    },
+    {
+      "nom": "Activités des organisations patronales et consulaires",
+      "score": 2
+    },
+    {
+      "nom": "Activités des organisations professionnelles",
+      "score": 2
+    },
+    {
+      "nom": "Activités des syndicats de salariés",
+      "score": 3
+    },
+    {
+      "nom": "Activités des organisations religieuses",
+      "score": 3
+    },
+    {
+      "nom": "Activités des organisations politiques",
+      "score": 4
+    },
+    {
+      "nom": "Activités des organisations associatives n.c.a.",
+      "score": 4
+    },
+    {
+      "nom": "Réparation d'ordinateurs et d'équipements périphériques",
+      "score": 2
+    },
+    {
+      "nom": "Réparation d'équipements de communication",
+      "score": 2
+    },
+    {
+      "nom": "Réparation de produits électroniques grand public",
+      "score": 2
+    },
+    {
+      "nom": "Réparation d'appareils électroménagers et d'équipements\npour la maison et le jardin",
+      "score": 2
+    },
+    {
+      "nom": "Réparation de chaussures et d'articles en cuir",
+      "score": 2
+    },
+    {
+      "nom": "Réparation de meubles et d'équipements du foyer",
+      "score": 2
+    },
+    {
+      "nom": "Réparation d'articles d'horlogerie et de bijouterie",
+      "score": 2
+    },
+    {
+      "nom": "Réparation d'autres biens personnels et domestiques",
+      "score": 2
+    },
+    {
+      "nom": "Blanchisserie-teinturerie",
+      "score": 2
+    },
+    {
+      "nom": "Coiffure et soins de beauté",
+      "score": 2
+    },
+    {
+      "nom": "Services funéraires",
+      "score": 2
+    },
+    {
+      "nom": "Activités thermales et de thalassothérapie",
+      "score": 2
+    },
+    {
+      "nom": "Bains et autres soins corporels",
+      "score": 2
+    },
+    {
+      "nom": "Autres services personnels n.c.a.",
+      "score": 2
+    },
+    {
+      "nom": "Activités des ménages en tant qu'employeurs de personnel domestique",
+      "score": 2
+    },
+    {
+      "nom": "Activités indifférenciées des ménages en tant que\nproducteurs de biens pour usage propre",
+      "score": 2
+    },
+    {
+      "nom": "Activités indifférenciées des ménages en tant que\nproducteurs de services pour usage propre",
+      "score": 2
+    },
+    {
+      "nom": "Activités des organisations et organismes extraterritoriaux",
+      "score": 2
+    },
+    {
+      "nom": "L'armement",
+      "score": 4
+    }
+  ],
+  "produits": [
+    {
+      "nom": "Intermédiation financière - Portefeuille global de services",
+      "score": 4
+    },
+    {
+      "nom": "Service de Payout Transfrontalier-Correspondance",
+      "score": 4
+    },
+    {
+      "nom": "Acquisition E-commerce - Paiement marchand en ligne",
+      "score": 4
+    },
+    {
+      "nom": "Acquisition TPE - Paiement marchand physique",
+      "score": 4
+    },
+    {
+      "nom": "Collecte",
+      "score": 4
+    },
+    {
+      "nom": "Cash Plus Payment ",
+      "score": 3
+    },
+    {
+      "nom": "Dispatch ",
+      "score": 2
+    }
+  ],
+  "canaux": [
+    {
+      "nom": "Présentiel",
+      "score": 4
+    },
+    {
+      "nom": "à distance ",
+      "score": 4
+    }
+  ],
+  "oui_non": [
+    {
+      "nom": "Oui",
+      "score": 4
+    },
+    {
+      "nom": "Non",
+      "score": 1
+    }
+  ],
+  "residence": [
+    {
+      "nom": "Société résidente",
+      "score": 1
+    },
+    {
+      "nom": "Société non résidente",
+      "score": 4
+    }
+  ],
+  "structure": [
+    {
+      "nom": "Structure Simple",
+      "score": 1
+    },
+    {
+      "nom": "Structure Complexe",
+      "score": 4
+    }
+  ],
+  "age": [
+    {
+      "nom": "18-21 ans",
+      "score": 4
+    },
+    {
+      "nom": "22-24 ans",
+      "score": 2
+    },
+    {
+      "nom": "25-65 ans",
+      "score": 1
+    },
+    {
+      "nom": "66-75 ans",
+      "score": 2
+    },
+    {
+      "nom": "Plus de 75 ans",
+      "score": 4
+    }
+  ],
+  "pays_risque_eleve": [
+    "Algérie",
+    "Angola",
+    "Cameroun",
+    "République centrafricaine",
+    "République démocratique du Congo",
+    "Côte d'Ivoire",
+    "Guinée-Bissau",
+    "Kenya",
+    "Mali",
+    "Namibie",
+    "Nigeria",
+    "Somalie",
+    "Soudan",
+    "Soudan du Sud",
+    "Tanzanie",
+    "Cuba",
+    "Haïti",
+    "Panama",
+    "Trinité-et-Tobago",
+    "Venezuela",
+    "Afghanistan",
+    "Myanmar (Birmanie) ",
+    "Corée du Nord",
+    "Irak",
+    "Iran",
+    "Laos",
+    "Liban",
+    "Népal",
+    "Pakistan",
+    "Syrie",
+    "Vietnam",
+    "Yémen",
+    "Bulgarie",
+    "Croatie",
+    "Monaco",
+    "Fidji",
+    "Palaos",
+    "Samoa",
+    "Vanuatu"
+  ]
+}
